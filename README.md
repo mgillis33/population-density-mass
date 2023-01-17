@@ -1,4 +1,4 @@
-# population
+# Population Density Massachusetts
 Display of population density for the Commonwealth of Massachusetts
 
 This project creates a 3D graphic that displays the population density for the Commonwealth of Massachusetts, divided into 400 meter (1/4 mile) hexagons.
